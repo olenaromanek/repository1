@@ -1,6 +1,5 @@
 Hello world!
 Hello world!
 Hello world!
-Hello world!
-Hi world
+Hello from master!
 
